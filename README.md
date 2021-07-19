@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @debsayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Introduction
+<img src="https://einsteinpros.com/wp-content/uploads/2017/11/leaking-faucet-guide-solutions.jpg" height=20% width=20%>
+This project aims to solve problem of using tinyML on low power deices.
 
-<!---
-debsayan/debsayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Background story
+This project was inspiration from my past experience on using arduino devices but without ML.
+
+## My Solution
+I devised a way to use ML on arduino to make better projects
+
+# Let's build it
+## Hardware setup
+Step 1: Connect Arduino board or fix arduino board to laptop and 
+
+<img src=""
