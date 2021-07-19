@@ -12,4 +12,5 @@ I devised a way to use ML on arduino to make better projects
 ## Hardware setup
 Step 1: Connect Arduino board or fix arduino board to laptop and 
 
-<img src="https://i1.wp.com/steptostem.com/wp-content/uploads/2020/05/coverpage.png?fit=943%2C1076&ssl=1.jpg">
+<img src="https://i1.wp.com/steptostem.com/wp-content/uploads/2020/05/coverpage.png?fit=943%2C1076&ssl=1.jpg"> height=
+
